@@ -11,3 +11,11 @@
 ul {
   list-style: none;
 }
+
+#search {
+  margin-right: 10px;
+}
+
+#toggle-button {
+  margin-left: 10px;
+}
